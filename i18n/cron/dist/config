@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[remote "origin"]
+	url = git@github.com:i18n-cron/dist.git
+	fetch = +refs/heads/ssl:refs/remotes/origin/ssl
+[branch "ssl"]
+	remote = origin
+	merge = refs/heads/ssl

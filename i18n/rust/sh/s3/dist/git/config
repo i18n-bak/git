@@ -1,0 +1,19 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@github.com:i18n-site/dist.git
+[remote "origin"]
+	url = git@codeberg.org:i18n-site/dist.git
+[remote "origin"]
+	url = git@atomgit.com:i18n-site/dist.git
+[remote "origin"]
+	url = git@bitbucket.org:i18nsite/dist.git
+#[remote "origin"]
+#	url = git@e.coding.net:g-kflq0922/dist/bin.git
+#[remote "origin"]
+#	url = git@gitflic.ru:i18n/bindist.git 
+#[remote "origin"]
+#	url = git@hf.co:datasets/i18n-site/dist
